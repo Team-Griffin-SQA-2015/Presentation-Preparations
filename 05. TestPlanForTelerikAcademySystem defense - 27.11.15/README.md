@@ -27,13 +27,13 @@ Prepare a full **[test plan](http://www.computing.dcu.ie/~davids/courses/CA267/i
 	* Statistics questions - **P.Paunov**
 	* Correlation - entrance exams - **E.Georgieva**
 	* Entrance exams - **E.Georgieva**
-	* Students in academy
-	* Seasons
-***
-* Settings - Front - **L.Nikodimov**
-* Calendar - Front - **N.Nenov**
-* Navigation of site - Front - **P.Paunov**
-* To receive information about last forum posts/last video materials/newest blog posts/incomming courses/social media - Front - **P.Paunov**
-* Search - Front - **N.Bogomirov**
-* Application for Software Academy - Front - **E.Georgieva**
-* Entry exam - Front - **E.Georgieva**
+	* Students in academy - **P.Paunov**
+	* Seasons - **P.Paunov**
+* __Front__
+	* Settings - Front - **L.Nikodimov**
+	* Calendar - Front - **N.Nenov**
+	* Navigation of site - Front - **P.Paunov**
+	* To receive information about last forum posts/last video materials/newest blog posts/incomming courses/social media - Front - **P.Paunov**
+	* Search - Front - **N.Bogomirov**
+	* Application for Software Academy - Front - **E.Georgieva**
+	* Entry exam - Front - **E.Georgieva**
