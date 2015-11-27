@@ -1,4 +1,4 @@
-# Test Case Management System
+# Test Plan for Telerik Academy System
 ***
 ## Deadline 27.11.2015
 
