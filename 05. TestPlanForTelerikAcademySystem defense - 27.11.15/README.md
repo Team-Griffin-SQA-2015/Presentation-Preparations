@@ -1,5 +1,25 @@
 # Test Plan for Telerik Academy System
 ***
+## Notes from stackeholders 27.11.2015
+* Bug tracking tool
+Team Pulse
+
+* Test automation tool
+Telerik Test Studio
+
+* Training and staffing
+Write what we will have to learn and some more specific details
+
+* Bug definision
+Add definision about bug structure
+
+* Link to the system 
+Add the link in refereces
+* In Approach Test Levels must have entry and exit criteria, not that specific information about the testing
+* In Approach descrbe priority of bugs
+Describe what exactly mean High,Medium and Low
+* Find place to explain that unit testing is expected to be done by developers
+***
 ## Deadline 27.11.2015
 
 Prepare a full **[test plan](http://www.computing.dcu.ie/~davids/courses/CA267/ieee829mtp.pdf)** for the testing the main modules in telerikacademy:
