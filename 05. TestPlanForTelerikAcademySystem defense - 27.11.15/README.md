@@ -2,22 +2,25 @@
 ***
 ## Notes from stackeholders 27.11.2015
 * Bug tracking tool
-Team Pulse
+<p>Team Pulse</p>
 
 * Test automation tool
-Telerik Test Studio
+<p>Telerik Test Studio</p>
 
 * Training and staffing
-Write what we will have to learn and some more specific details
+<p>Write what we will have to learn and some more specific details</p>
 
 * Bug definision
-Add definision about bug structure
+<p>Add definision about bug structure</p>
 
-* Link to the system 
-Add the link in refereces
+* Link to the system
+<p>Add the link in refereces</p>
+
 * In Approach Test Levels must have entry and exit criteria, not that specific information about the testing
+
 * In Approach descrbe priority of bugs
-Describe what exactly mean High,Medium and Low
+<p>Describe what exactly mean High,Medium and Low</p>
+
 * Find place to explain that unit testing is expected to be done by developers
 ***
 ## Deadline 27.11.2015
