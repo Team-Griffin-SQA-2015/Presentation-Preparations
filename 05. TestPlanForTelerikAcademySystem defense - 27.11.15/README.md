@@ -7,19 +7,20 @@
 * **Test automation tool**
 <p>Telerik Test Studio</p>
 
+* **Another tool**
+<p>Visual Studio Team Services</p>
+
 * **Training and staffing**
 <p>Write what we will have to learn and some more specific details</p>
-
-* **Bug definision**
-<p>Add definision about bug structure</p>
 
 * **Link to the system**
 <p>Add the link in refereces</p>
 
 * **In Approach Test Levels must have entry and exit criteria, not that specific information about the testing**
 
-* **In Approach descrbe priority of bugs**
-<p>Describe what exactly mean High,Medium and Low</p>
+* **In Approach descrbe priority of bugs and Bug definision**
+<p>Describe what exactly mean High,Medium and Low.
+Add definision about bug structure.</p>
 
 * **Find place to explain that unit testing is expected to be done by developers**
 ***
