@@ -1,5 +1,45 @@
 # Test Plan for Telerik Academy System
 ***
+
+## Notes from stackeholders 11.12.2015
+### Test Plan
+* **Revision History Versions**
+<p>Version *2.0* is recommended when big change in the plan is made, otherwise use *1.9*, *1.10* and so on.</p>
+* **Schedule**
+<p>Use same metrics for estimation - either days or hours. Usually there is a minimum estimation, for example 1h or 0,5days</p>
+
+###Test cases
+* **Don't check if a button exists, but verify that it functions correctly. Follow user behavior**
+
+* **Write test cases from the side of functionality**
+
+###Test Studio
+* **Test reports**
+<p>We should be able to show how many tests we have, which are automated and how many tests pass</p>
+
+## Notes from stackeholders 04.12.2015
+* **Acceptance**
+<p>Agreed with stackeholders</p>
+
+* **Performance test**
+<p>Remove words like *reasonable*</p>
+
+* **Schedule**
+	* Defect logging - through the hole time, not a phase
+	* Functional testing - part of System testing, don't separate them
+	* Regression testing - in every phase
+	* Resolution of gathered defect - to remove
+* **Example Schedule phases should have**
+	* Plan
+	* Design
+	* Test case specification
+	* Scripts
+	* Performance
+* **Measures and Metrics**
+<p>Add what *priority* level means for test cases</p>
+* **In the hole test plan**
+<p>Replace word *proper* and other synonims of it</p>
+
 ## Notes from stackeholders 27.11.2015
 * **Bug tracking tool**
 <p>Team Pulse</p>
