@@ -1,0 +1,18 @@
+Telerik Testing Framwork
+* Bug and test cases relation
+
+how many test cases are infected of given bug report
+
+*** Attributes of tests
+[TestMethod]
+- Custom
+[Priority(Priorities.High]
+[TestCategory(Categories.PurchasingCenter)][TestCategory(Categories.ContiniusIntegration)]
+[ManualTestCase(12330)]
+[Owner(Owners.AntonAngelov)]
+[ScreenshotOnFail(tru)]
+[VideoRecording(VideoRecordingMode.OnyFail)]
+[ExecutionEngineAttribute(Browsers.Firefox)]
+
+*** Logger
+- NLoger
