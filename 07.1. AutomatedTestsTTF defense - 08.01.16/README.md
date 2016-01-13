@@ -33,3 +33,6 @@ How many test cases are infected of given bug report
 	* [**ExecutionEngineAttribute**(Browsers.Firefox)]
 
 * Don't use **random** data - make a **factory**
+
+* Logger
+For example NLogger
