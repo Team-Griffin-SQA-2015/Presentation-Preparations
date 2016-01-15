@@ -2,6 +2,14 @@
 
 ***
 
+## Notes
+
+* **KendoGrid view** paging and sorting - Write separate tests in every page
+
+* **KendoGrid Extensions** - KendoGrid class is slower than just using javascript and is less readable
+
+* In **Facade** shoud stay operations that combine several pages. Methods in Page are service methods whichare ok to be there and not to wrap them in the facade. The facade should be used when we have very big workflow (around 10 steps) - for example login page, the main page and then successfull page for validation.
+
 ## Deadline 15.01.2016
 
 * Extract **Owner** in constants (in QA.TelerikAcademy.Core)
